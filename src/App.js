@@ -4,9 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>React aplication : This is my aplication</p>
+      <p>app react UPDATE </p>
     </div>
   );
 }
 
-export default App;
+export default  App;
